@@ -9,6 +9,7 @@ package BT4_Buoi5;
  *
  * @author T460
  */
+// khơi tạo class giám sát
 public class Watch_man extends Employee {
 
     public Watch_man(LevelProblem levelProblem){

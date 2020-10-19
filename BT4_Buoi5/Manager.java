@@ -9,6 +9,7 @@ package BT4_Buoi5;
  *
  * @author T460
  */
+// class quản lí kề thừa từ nhân viên nhà hàng
 public class Manager extends Employee{
 
     public  Manager(LevelProblem levelProblem) {

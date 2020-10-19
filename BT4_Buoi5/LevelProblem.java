@@ -9,6 +9,7 @@ package BT4_Buoi5;
  *
  * @author T460
  */
+// class các mức độ khiếu kiện
 public enum LevelProblem {
     // Các vẫn đề nảy sinh khi gọi đồ
     LONG_TIME_WAITING(0),// thời gian đợi
@@ -19,8 +20,6 @@ public enum LevelProblem {
     POISONING(5);// trúng độc
 
     private int level;
-
-
 
     LevelProblem(int level) {
         this.level = level;

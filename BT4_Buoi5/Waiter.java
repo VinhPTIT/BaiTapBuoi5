@@ -9,6 +9,7 @@ package BT4_Buoi5;
  *
  * @author T460
  */
+// khởi tạo class bồi bàn
 public class Waiter extends Employee {
 
 
